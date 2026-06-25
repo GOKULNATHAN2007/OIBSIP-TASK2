@@ -26,5 +26,20 @@ Skills Section
 Projects Showcase
 Contact Information
 Responsive Design
-This project demonstrates my understanding of frontend development and responsive web design. It helps strengthen my UI development skills while providing a professional portfolio to highlight my projects and achievements.
+
+
+
+
+HTML Overview
+HTML is used to create the structure of the website, including the navigation bar, hero section, about, skills, projects, certificates, contact, and footer.
+
+CSS Overview
+CSS is used to style the website with colors, animations, responsive layouts, hover effects, and a modern glassmorphism design.
+Advantages
+Professional appearance
+Mobile-friendly design
+Easy to update
+Suitable for internships and placements
+
+This portfolio website highlights the developer's profile, skills, projects, and achievements in a simple, responsive, and visually appealing way. It demonstrates practical knowledge of HTML and CSS while providing a professional online presence.This project demonstrates my understanding of frontend development and responsive web design. It helps strengthen my UI development skills while providing a professional portfolio to highlight my projects and achievements.
 
