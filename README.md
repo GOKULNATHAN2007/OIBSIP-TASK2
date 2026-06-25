@@ -21,19 +21,26 @@ Google Fonts
 Key Features
 
 Hero Section
+
 About Me Section
+
 Skills Section
+
 Projects Showcase
+
 Contact Information
+
 Responsive Design
 
 
 
 
-HTML Overview
+HTML Overview:
+
 HTML is used to create the structure of the website, including the navigation bar, hero section, about, skills, projects, certificates, contact, and footer.
 
-CSS Overview
+CSS Overview:
+
 CSS is used to style the website with colors, animations, responsive layouts, hover effects, and a modern glassmorphism design.
 Advantages
 Professional appearance
