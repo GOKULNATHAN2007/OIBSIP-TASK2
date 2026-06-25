@@ -13,8 +13,11 @@ Project Description This Portfolio Website is a responsive frontend project deve
 Technologies Used
 
 HTML5
+
 CSS
+
 Google Fonts
+
 Key Features
 
 Hero Section
