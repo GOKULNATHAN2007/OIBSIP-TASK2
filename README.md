@@ -18,7 +18,8 @@ CSS
 
 Google Fonts
 
-Key Features
+
+KEY FEATURES
 
 Hero Section
 
